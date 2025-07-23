@@ -1,7 +1,7 @@
 import java.util.*;
 public class MaxConsecutiveOne {
     public static void main(String[] args) {
-        int[] nums = {1, 1, 0, 1, 1, 1};
+        int[] nums = {1, 1, 0, 0, 1, 1};
         int i=0;
         int j=1;
         List<List<Integer>> a=new ArrayList<>();
